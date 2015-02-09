@@ -27,10 +27,10 @@ h1 {
 
 }
 
-body.flexbox {
+.flexbox  body{
   background:#331C3C;
 }
-body.no-flexbox {
+.no-flexbox body {
   background:#730c6b;
 }
 
