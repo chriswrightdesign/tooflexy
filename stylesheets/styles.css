@@ -17,6 +17,7 @@ p {
   color:#fff;
   max-width:600px;
   margin:0 auto 1em auto;
+  text-align:center;
 }
 h1 {
   color:#fff;
@@ -32,6 +33,9 @@ h1 {
 }
 .no-flexbox body {
   background:#730c6b;
+}
+.status {
+  font-weight:700;
 }
 
 .flexbox .status:after {
