@@ -11,12 +11,13 @@ p {
   font-size:1em;
   color:#fff;
   max-width:600px;
-  margin:0 auto;
+  margin:0 auto 1em auto;
 }
 h1 {
   color:#fff;
   text-align:center;
-  font-size:5em;
+  font:2em/1.5 Lato, "Helvetica Neue", Helvetica, Arial, sans-serif;
+  margin:0 auto;
 
 }
 .wrapper {
