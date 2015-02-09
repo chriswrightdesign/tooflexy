@@ -16,7 +16,8 @@ p {
 h1 {
   color:#fff;
   text-align:center;
-  font:2em/1.5 Lato, "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font:3.5em/1.5 Lato, "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-weight:700;
   margin:0 auto;
 
 }
@@ -34,6 +35,9 @@ h1 {
   padding:1em;
   text-decoration:none;
   color:#331c3c;
+
+  transition:background 0.3s ease;
+
 }
 .button-primary:hover,
 .button-primary:focus,
